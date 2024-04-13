@@ -1,0 +1,16 @@
+{
+  "name": "web_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^24.0.0"
+  }
+}
